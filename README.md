@@ -1,2 +1,2 @@
 # potato0217.github.io
-Rimbus Company Deck Builder
+연습용 블로그
